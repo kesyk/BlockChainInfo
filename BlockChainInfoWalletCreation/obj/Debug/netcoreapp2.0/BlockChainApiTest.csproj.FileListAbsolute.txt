@@ -1,0 +1,11 @@
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\bin\Debug\netcoreapp2.0\BlockChainApiTest.deps.json
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\bin\Debug\netcoreapp2.0\BlockChainApiTest.runtimeconfig.json
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\bin\Debug\netcoreapp2.0\BlockChainApiTest.runtimeconfig.dev.json
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\bin\Debug\netcoreapp2.0\BlockChainApiTest.dll
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.csprojAssemblyReference.cache
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.csproj.CoreCompileInputs.cache
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.AssemblyInfoInputs.cache
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.AssemblyInfo.cs
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\bin\Debug\netcoreapp2.0\BlockChainApiTest.pdb
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.dll
+c:\users\maxpain\source\repos\BlockChainApiTest\BlockChainApiTest\obj\Debug\netcoreapp2.0\BlockChainApiTest.pdb

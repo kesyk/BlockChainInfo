@@ -1,0 +1,12 @@
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.deps.json
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.runtimeconfig.json
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.runtimeconfig.dev.json
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.dll
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.pdb
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.csprojAssemblyReference.cache
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.csproj.CoreCompileInputs.cache
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.AssemblyInfoInputs.cache
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.AssemblyInfo.cs
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.dll
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\obj\Debug\netcoreapp2.0\BlockChainInfoWalletCreation.pdb
+C:\Users\MaxPain\source\repos\BlockChainInfoWalletCreation\BlockChainInfoWalletCreation\bin\Debug\netcoreapp2.0\config.json

@@ -1,0 +1,11 @@
+{
+  "BlockChainInfo": {
+    "MainPassword": "mainspassword1",
+    "SecondPassword": "secondpassword1",
+    "Label": "New test Walle",
+    "ApiCode": "apitestcode1",
+    "BlockChainLink": "https://blockchain.info",
+    "WalletServiceLink": "http://127.0.0.1:3000"
+  },
+  "WritePath": "NewWalletInfo.json"
+}
